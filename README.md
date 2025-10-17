@@ -8,9 +8,52 @@ This repository contains the **canonical original** of the Spaceship Earth v2.0 
 
 ### What You'll Find Here
 
-- **`/original/`** - The protected, canonical version of the complete ebook (approximately 20 chapters)
+- **`/original/`** - The protected, canonical version of the complete ebook (18 chapters + appendices)
 - **`/implementations/`** - A registry of community forks and adaptations
 - **`/tools/`** - Helper scripts for forking and verification
+
+## 📚 Table of Contents
+
+### Front Matter
+- [Author's Note](original/front_matter/00%20-%20Author's%20Note.md)
+- [Contents](original/front_matter/00%20-%20Contents.md)
+- [Prologue](original/front_matter/00%20-%20Prologue.md)
+
+### Part I: Current System
+- [Chapter 1: The Great Pirates' Modern Descendants](original/part_1_current_system/Chapter%201%20The%20Great%20Pirates'%20Modern%20Descendants.md)
+- [Chapter 2: The Scarcity Infrastructure](original/part_1_current_system/Chapter%202%20The%20Scarcity%20Infrastructure.md)
+- [Chapter 3: The Crisis of Fragmented Intelligence](original/part_1_current_system/Chapter%203%20The%20Crisis%20of%20Fragmented%20Intelligence.md)
+
+### Part II: Technological Toolkit
+- [Chapter 4: AI as Comprehensive Intelligence Amplifier](original/part_2_technological_toolkit/Chapter%204%20AI%20as%20Comprehensive%20Intelligence%20Amplifier.md)
+- [Chapter 5: Blockchain as Truth and Abundance Infrastructure](original/part_2_technological_toolkit/Chapter%205%20Blockchain%20as%20Truth%20and%20Abundance%20Infrastructure.md)
+- [Chapter 6: Cybersecurity and Privacy as Freedom Foundation](original/part_2_technological_toolkit/Chapter%206%20Cybersecurity%20and%20Privacy%20as%20Freedom%20Foundation.md)
+- [Chapter 7: Data Science as Planetary Sensing System](original/part_2_technological_toolkit/Chapter%207%20Data%20Science%20as%20Planetary%20Sensing%20System.md)
+
+### Part III: Operating System
+- [Chapter 8: The Synergistic Technology Stack](original/part_3_operating_system/Chapter%208%20The%20Synergistic%20Technology%20Stack.md)
+- [Chapter 9: The Crew Interface Systems](original/part_3_operating_system/Chapter%209%20The%20Crew%20Interface%20Systems.md)
+- [Chapter 10: The Resource Democracy Platform](original/part_3_operating_system/Chapter%2010%20The%20Resource%20Democracy%20Platform.md)
+
+### Part IV: Implementation
+- [Chapter 11: The Bootstrap Sequence](original/part_4_implementation/Chapter%2011%20The%20Bootstrap%20Sequence.md)
+- [Chapter 12: The Tipping Point Strategy](original/part_4_implementation/Chapter%2012%20The%20Tipping%20Point%20Strategy.md)
+- [Chapter 13: The Immunity Protocols](original/part_4_implementation/Chapter%2013%20The%20Immunity%20Protocols.md)
+
+### Part V: Operational Spaceship
+- [Chapter 14: Planetary Resource Orchestration](original/part_5_operational_spaceship/Chapter%2014%20Planetary%20Resource%20Orchestration.md)
+- [Chapter 15: The Learning System](original/part_5_operational_spaceship/Chapter%2015%20The%20Learning%20System.md)
+- [Chapter 16: The Empowered Crew](original/part_5_operational_spaceship/Chapter%2016%20The%20Empowered%20Crew.md)
+
+### Part VI: Evolutionary Leap
+- [Chapter 17: The Creative Civilization](original/part_6_evolutionary_leap/Chapter%2017%20The%20Creative%20Civilization.md)
+- [Chapter 18: The Cosmic Perspective](original/part_6_evolutionary_leap/Chapter%2018%20The%20Cosmic%20Perspective.md)
+
+### Appendices
+- [Appendix A: Operating Manual for Spaceship Earth](original/appendices/X%20-%20APPENDIX%20A%20Operating%20Manual%20for%20Spaceship%20Earth.md)
+- [Appendix B: The Mathematics of Abundance](original/appendices/X%20-%20APPENDIX%20B%20The%20Mathematics%20of%20Abundance.md)
+- [Appendix C: Technical Reference](original/appendices/X%20-%20APPENDIX%20C%20Technical%20Reference.md)
+- [Appendix D: Case Studies](original/appendices/X%20-%20Appendix%20D%20Case%20Studies.md)
 
 ## 🔒 Original Content Protection
 
@@ -46,7 +89,7 @@ Under these terms:
 - **ShareAlike** - Distribute adaptations under the same license
 - **No additional restrictions** - Don't apply legal terms that restrict what the license permits
 
-See [LICENSE](LICENSE) for full legal text.
+See [LICENSE.md](LICENSE.md) for full legal text.
 
 ## 🌍 Implementation Registry
 
@@ -62,7 +105,7 @@ This project embraces AI-assisted development. See [CLAUDE.md](CLAUDE.md) for ou
 
 ### To Read the Original
 
-Navigate to [`/original/`](original/) and start with `00-front-matter.md` or `01-introduction.md`.
+Start with the [Prologue](original/front_matter/00%20-%20Prologue.md) or jump directly to [Chapter 1](original/part_1_current_system/Chapter%201%20The%20Great%20Pirates'%20Modern%20Descendants.md).
 
 ### To Create an Implementation
 
