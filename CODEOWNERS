@@ -1,0 +1,15 @@
+# CODEOWNERS file for Spaceship Earth v2.0
+# Protects the original content from unauthorized modifications
+
+# Original ebook content - requires maintainer approval
+/original/** @NoahOBodhi
+
+# Core documentation - maintainer approval recommended
+/README.md @NoahOBodhi
+/LICENSE.md @NoahOBodhi
+/CLAUDE.md @NoahOBodhi
+/CONTRIBUTING.md @NoahOBodhi
+
+# Implementation registry - community contributions welcome
+# (No specific owner - anyone can submit registry entries)
+/implementations/registry.json

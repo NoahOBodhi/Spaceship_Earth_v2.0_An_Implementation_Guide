@@ -1,0 +1,20 @@
+{
+  "name": "Your Implementation Name",
+  "description": "Brief description of how you've adapted the content for your context",
+  "context": "The community, organization, or region this implementation serves",
+  "repository": "https://github.com/your-username/your-fork",
+  "forked_from": "v2.0-original",
+  "date_created": "YYYY-MM-DD",
+  "maintainer": "Your Name or Organization Name",
+  "contact": "email@example.com or https://yourwebsite.com",
+  "tags": [
+    "urban",
+    "community",
+    "cooperative",
+    "energy",
+    "food-systems"
+  ],
+  "language": "en",
+  "status": "active",
+  "notes": "Optional: Any additional context about your implementation"
+}
