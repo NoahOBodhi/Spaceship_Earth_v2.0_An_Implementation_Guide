@@ -1,6 +1,6 @@
 # Chapter 15: The Learning System
 
-**Version:** 2.0 - October 2, 2025
+**Version:** 2.0 - October 2025
 
 **Crew Development Stage:** Capability Development - "You're learning how everyone develops coordination capabilities"
 
