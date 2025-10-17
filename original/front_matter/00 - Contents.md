@@ -63,3 +63,5 @@ APPENDIX B: The Mathematics of Abundance
 APPENDIX C: Technical Reference
 
 APPENDIX D: Case Studies - Six Compelling Case Studies for Spaceship Earth v2.0
+
+APPENDIX E: Economic Foundations for the CARE$ Alternative Currency Model
