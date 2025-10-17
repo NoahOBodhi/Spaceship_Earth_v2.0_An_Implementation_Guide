@@ -51,6 +51,7 @@ This directory contains the **authoritative original** of Spaceship Earth v2.0: 
 - Appendix B: The Mathematics of Abundance
 - Appendix C: Technical Reference
 - Appendix D: Case Studies
+- APPENDIX E: Economic Foundations for the CARE$ Alternative Currency Model
 
 ---
 
