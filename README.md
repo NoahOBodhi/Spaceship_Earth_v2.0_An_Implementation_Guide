@@ -4,7 +4,7 @@
 
 ## 📖 About This Repository
 
-This repository contains the **canonical original** of the Spaceship Earth v2.0 Implementation Guide - a comprehensive ebook designed to guide communities, organizations, and individuals toward sustainable planetary practices.
+This repository contains the **canonical original** of the Spaceship Earth v2.0 Implementation Guide - a comprehensive ebook designed to guide communities, organizations, and individuals toward crew consciousness and abundance practices.
 
 ### What You'll Find Here
 
