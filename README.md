@@ -1,6 +1,6 @@
 # Spaceship Earth v2.0: An Implementation Guide
 
-**A collaborative framework for sustainable planetary stewardship**
+**You are crew. You are conscious. You are capable.**
 
 ## 📖 About This Repository
 
