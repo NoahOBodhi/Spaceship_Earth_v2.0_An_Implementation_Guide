@@ -54,7 +54,7 @@ This repository contains the **canonical original** of the Spaceship Earth v2.0 
 - [Appendix B: The Mathematics of Abundance](original/appendices/X%20-%20APPENDIX%20B%20The%20Mathematics%20of%20Abundance.md)
 - [Appendix C: Technical Reference](original/appendices/X%20-%20APPENDIX%20C%20Technical%20Reference.md)
 - [Appendix D: Case Studies](original/appendices/X%20-%20Appendix%20D%20Case%20Studies.md)
-- APPENDIX E: Economic Foundations for the CARE$ Alternative Currency Model
+- Appendix E: Economic Foundations for the CARE$ Alternative Currency Model
 
 ## 🔒 Original Content Protection
 
