@@ -8,7 +8,7 @@ This repository contains the **canonical original** of the Spaceship Earth v2.0 
 
 ### What You'll Find Here
 
-- **`/original/`** - The protected, canonical version of the complete ebook (18 chapters + appendices)
+- **`/original/`** - The protected, canonical version of the complete ebook (18 chapters + epilogue + appendices)
 - **`/implementations/`** - A registry of community forks and adaptations
 - **`/tools/`** - Helper scripts for forking and verification
 
@@ -48,13 +48,14 @@ This repository contains the **canonical original** of the Spaceship Earth v2.0 
 ### Part VI: Evolutionary Leap
 - [Chapter 17: The Creative Civilization](original/part_6_evolutionary_leap/Chapter%2017%20The%20Creative%20Civilization.md)
 - [Chapter 18: The Cosmic Perspective](original/part_6_evolutionary_leap/Chapter%2018%20The%20Cosmic%20Perspective.md)
+- [Epilogue: Reporting for Duty](original/part_6_evolutionary_leap/EPILOGUE%20REPORTING%20FOR%20DUTY.md)
 
 ### Appendices
 - [Appendix A: Operating Manual for Spaceship Earth](original/appendices/X%20-%20APPENDIX%20A%20Operating%20Manual%20for%20Spaceship%20Earth.md)
 - [Appendix B: The Mathematics of Abundance](original/appendices/X%20-%20APPENDIX%20B%20The%20Mathematics%20of%20Abundance.md)
 - [Appendix C: Technical Reference](original/appendices/X%20-%20APPENDIX%20C%20Technical%20Reference.md)
-- [Appendix D: Case Studies](original/appendices/X%20-%20Appendix%20D%20Case%20Studies.md)
-- Appendix E: Economic Foundations for the CARE$ Alternative Currency Model
+- [Appendix D: Case Studies](original/appendices/X%20-%20APPENDIX%20D%20Case%20Studies.md)
+- [Appendix E: Economic Foundations for the CARE$ Alternative Currency Model](original/appendices/X%20-%20APPENDIX%20E%20Economic%20Foundations%20for%20the%20CARE$.md)
 
 ## 🔒 Original Content Protection
 
