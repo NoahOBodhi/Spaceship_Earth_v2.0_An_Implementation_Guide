@@ -182,7 +182,7 @@ GitHub *Repository: [SSEv2 NEXUS G](https://github.com/NoahOBodhi/SSEv2_NEXUS_G)
 *GoFundMe Site:* [https://gofund.me/8f0e8763d](https://gofund.me/8f0e8763d)
 
 **Direct Contact:** For crew seeking immediate connection or those who prefer direct communication channels.
-→ [[Contact Form]](https://ssev2-nexus.netlify.app/#contact)
+→ [[Website]](https://ssev2-crew.org/)) or email: noah.o.bodhi@ssev2-crew.org
 
 These platforms serve crew coordination. They're not gatekeepers—they're the initial toolset. 
 **Use what works. Build what's missing. Share what you create.**
