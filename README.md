@@ -15,6 +15,7 @@ This repository contains the **canonical original** of the Spaceship Earth v2.0 
 ## 📚 Table of Contents
 
 ### Front Matter
+- [Cover](original/front_matter/Cover.md)
 - [Author's Note](original/front_matter/00%20-%20Authors%20Note.md)
 - [Contents](original/front_matter/00%20-%20Contents.md)
 - [Prologue](original/front_matter/00%20-%20Prologue.md)
