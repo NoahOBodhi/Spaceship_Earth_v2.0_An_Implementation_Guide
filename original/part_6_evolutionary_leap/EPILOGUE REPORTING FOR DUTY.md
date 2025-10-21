@@ -172,16 +172,16 @@ Read them. Consider them. Then choose your entry point and activate.
 The coordination infrastructure exists to make crew collaboration effective. Access points:
 
 **GitHub Repository:** Technical documentation, implementation guides, system architectures, and open-source tools. This is where we build and share the actual systems.
-GitHub *Repository: [SSEv2 NEXUS G](https://github.com/NoahOBodhi/SSEv2_NEXUS_G)*
+*GitHub Repository: [SSEv2 NEXUS G](https://github.com/NoahOBodhi/SSEv2_NEXUS_G)*
 
 **Discord Server:** Real-time coordination, mission planning, knowledge sharing, and crew connection. This is where we communicate and coordinate.
 *Discord  Server: [SSEv2 NEXUS D](https://discord.gg/eppQP5KvW4)*
 
 **GoFundMe Campaign:** Help us fund our latest campaign. All funds support open-source development, community building, and making this knowledge freely accessible to crew members worldwide. 
-*GoFundMe Site:* [https://gofund.me/8f0e8763d](https://gofund.me/8f0e8763d)
+*GoFundMe Site: [https://gofund.me/8f0e8763d](https://gofund.me/8f0e8763d)*
 
 **Direct Contact:** For crew seeking immediate connection or those who prefer direct communication channels.
-*Website:*[https://ssev2-crew.org](https://ssev2-crew.org/) or email: noah.o.bodhi@ssev2-crew.org
+*Website: [https://ssev2-crew.org](https://ssev2-crew.org/) or email: noah.o.bodhi@ssev2-crew.org*
 
 These platforms serve crew coordination. They're not gatekeepers—they're the initial toolset. 
 **Use what works. Build what's missing. Share what you create.**
